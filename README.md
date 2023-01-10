@@ -1,20 +1,24 @@
 # JuegoMissileCommand
 
-EL JUEGO
+to run the game open a terminal and navigate to the directory "GameMissileCommand\GameMissileCommand_last\GameMissileCommand", then run the following command: java -jar GameMissileCommand.jar
 
-El objetivo del juego es defender tus ciudades y bases de misiles, El enemigo dispara misiles balísticos interplanetarios (MBI) y misiles crucero, ambos tienen como objetivo destruir tus ciudades y bases militares. Hay 2 tipos de misil crucero: misiles cruceros tontos (que caen en línea recta) y misiles crucero inteligentes, los cuales tratarán de evadir tus misiles antibalísticos (MABs). 
+ENJOY!!!!
 
-El enemigo ataca en una serie de oleadas que puede variar en el número de misiles balísticos interplanetarios que atacan. Cada oleada de misiles se mueve más rápido que la oleada anterior. Mientras más rápida es la oleada, más difícil es defender las ciudades. Por este motivo, mientras más rápida es la oleada, más alto será el puntaje ganado. 
+THE GAME
 
-Con cada oleada, tenés 30 MABs para defenderte, 10 en cada uno de los silos, los cuales están ubicados en la parte inferior de la pantalla, a la izquierda, al centro y a la derecha. Una vez que has disparado los 30 MABs, estarás indefenso hasta que comience una nueva oleada.
+The objective of the game is to defend your cities and missile bases, The enemy fires interplanetary ballistic missiles (MBI) and cruise missiles, both aim to destroy your cities and military bases. There are 2 types of cruise missiles: dumb cruise missiles (which fall in a straight line) and smart cruise missiles, which will try to evade your anti-ballistic missiles (MABs).
 
-Cada vez que un MAB llega a su destino o alcanza algún misil enemigo ocurre una explosión. La onda expansiva de esta explosión puede ocasionar que otros misiles balísticos interplanetarios o crucero que se encuentran en la zona de impacto también sean destruidos. Si la explosión del MAB no alcanza la cabeza del misil, éste seguirá con su trayectoria, sólo se verá afectada la estela que deja a su paso..
-Debes tener en cuenta que hay un umbral (línea horizontal imaginaria) en el campo de juego, debajo de la cual no podrás disparar misiles. De esta manera se protege a los silos y las ciudades de la autodestrucción.
+The enemy attacks in a series of waves that can vary in the number of IBMs that attack. Each wave of missiles moves faster than the previous wave. The faster the wave, the more difficult it is to defend the cities. For this reason, the faster the wave, the higher the score will be earned.
 
-Si logras sobrevivir a la oleada, pasarás al siguiente nivel, si no logras sobrevivir a la oleada, tendrás sólo otra oportunidad para volver a defenderte.
+With each wave, you have 30 MABs to defend yourself, 10 in each of the silos, which are located at the bottom of the screen, left, center and right. Once you've shot all 30 MABs, you'll be defenseless until a new wave starts.
 
-El juego finaliza cuando todas las ciudades son destruidas.
+Every time a MAB reaches its destination or hits an enemy missile, an explosion occurs. The shock wave from this explosion can cause other cruise or interplanetary ballistic missiles in the impact zone to be destroyed as well. If the MAB explosion does not reach the head of the missile, it will continue on its trajectory, only the wake it leaves behind will be affected.
+You must take into account that there is a threshold (imaginary horizontal line) on the playing field, below which you will not be able to fire missiles. In this way, silos and cities are protected from self-destruction.
 
-PUNTAJE
+If you manage to survive the wave, you will go to the next level, if you fail to survive the wave, you will have just another chance to defend yourself again.
 
-Ganarás puntuación cuando destruyas misiles balístico interplanetarios y misiles crucero. También podés sumar puntaje por los misiles antibalísticos no usados y ciudades salvadas. Dado que cada oleada de misiles balísticos interplanetarios se mueve más rápido, el puntaje ganado también será mayor. Por ejemplo, oleadas 9 y 10 valen 5 veces el puntaje original.
+The game ends when all cities are destroyed.
+
+SCORE
+
+You will earn points when you destroy interplanetary ballistic missiles and cruise missiles. You can also add points for unused anti-ballistic missiles and cities saved. Since each wave of IBMs moves faster, the score earned will also be higher. For example, waves 9 and 10 are worth 5 times the original score.
