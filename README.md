@@ -17,4 +17,4 @@ El juego finaliza cuando todas las ciudades son destruidas.
 
 PUNTAJE
 
-Ganarás puntuación cuando destruyas misiles balístico interplanetarios y misiles crucero. También podés sumar puntaje por los misiles antibalísticos no usados y ciudades salvadas. Dado que cada oleada de misiles balísticos interplanetarios se mueve más rápido, el puntaje ganado también será mayor. Por ejemplo, oleadas 9 y 10 valen 5 veces el puntaje original
+Ganarás puntuación cuando destruyas misiles balístico interplanetarios y misiles crucero. También podés sumar puntaje por los misiles antibalísticos no usados y ciudades salvadas. Dado que cada oleada de misiles balísticos interplanetarios se mueve más rápido, el puntaje ganado también será mayor. Por ejemplo, oleadas 9 y 10 valen 5 veces el puntaje original.
