@@ -1,6 +1,6 @@
 # Missile Command Game - Game written in Java
 
-to run the game open a terminal and navigate to the directory "JuegoMissileCommand\JuegoMissileCommand_last\JuegoMissileCommand", then run the following command: java -jar JuegoMissileCommand.jar
+to run the game open a terminal and navigate to the directory "Missile_Command_Java_Game\JuegoMissileCommand_last\JuegoMissileCommand", then run the following command: java -jar JuegoMissileCommand.jar
 
 ENJOY!!!!
 
